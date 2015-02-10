@@ -15,5 +15,9 @@ LinkingTo: Rcpp
 Suggests:
     testthat,
     roxygen2
+Collate:
+    ‘ash.R’
+    ‘ashutility.R’
+    ‘mix.R’
 URL: "http://github.com/stephens999/ash
 Packaged: 2014-05-07 19:50:40 UTC; esterpantaleo
